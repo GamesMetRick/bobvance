@@ -1,0 +1,16 @@
+.navbar-brand img{
+    height: 70px;
+    width: 90px;
+}
+
+h2{
+    height: 100;
+    width: 340;
+}
+.bobtext{
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    left: 650px;
+    top: 40px;
+    font-size: 30px;
+}
